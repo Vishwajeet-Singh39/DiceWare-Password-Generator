@@ -1,7 +1,7 @@
 #include<iostream>
 #include<random>
-#include"phraseList.h"
 using namespace std;
+#include"phraseList.h"
 void randomNumber(int dice[]){
     random_device random;
 	mt19937 gen(random());

@@ -1,5 +1,3 @@
-#include<iostream>
-#include<string>
 string phraseList[]={
 	"a",
 	"a&p",

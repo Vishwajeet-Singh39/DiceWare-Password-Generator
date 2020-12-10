@@ -43,4 +43,5 @@ int main(){
         password=password+" "+generatePhrase();
     }
     cout<<"The genrated password is:"<<password;
+    return 0;
 }
